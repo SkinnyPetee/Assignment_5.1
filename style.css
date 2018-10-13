@@ -1,0 +1,16 @@
+body {
+    /* using linear gradient  */
+    background-image: linear-gradient(lightyellow, yellow);
+
+}
+
+header {
+    width: 140px;
+    height: 70px;
+    border: 1px solid blue;
+    color: white;
+    padding: 20px;
+    background-color: blue;
+    border-radius: 100%;
+    text-align: center;
+}
